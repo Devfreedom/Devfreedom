@@ -1,5 +1,3 @@
-// my-profile-readme
-
 # Hi, I'm Freedom Chukwudi 👋
 
 **Junior Frontend Developer** | HTML • CSS • JavaScript • React • Tailwind CSS
