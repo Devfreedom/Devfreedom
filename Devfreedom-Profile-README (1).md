@@ -6,12 +6,7 @@
   </a>
 </p>
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devfreedom&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
-
   <img src="assets/developer-workspace-banner.png" alt="Illustration of a developer working at a coding workspace" width="820" />
 </p>
 
